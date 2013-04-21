@@ -1,0 +1,12 @@
+C:\Users\criveros\Desktop\AlmaChallenge\ServicioFileListener\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\criveros\Desktop\AlmaChallenge\ServicioFileListener\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\criveros\Desktop\AlmaChallenge\ServicioFileListener\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\criveros\Desktop\AlmaChallenge\ServicioFileListener\bin\Debug\ALMAServiceListenXML.exe.config
+C:\Users\criveros\Desktop\AlmaChallenge\ServicioFileListener\bin\Debug\ALMAServiceListenXML.exe
+C:\Users\criveros\Desktop\AlmaChallenge\ServicioFileListener\bin\Debug\ALMAServiceListenXML.pdb
+C:\Users\criveros\Desktop\AlmaChallenge\ServicioFileListener\obj\x86\Debug\ALMAServiceListenXML.ProjectInstaller.resources
+C:\Users\criveros\Desktop\AlmaChallenge\ServicioFileListener\obj\x86\Debug\ALMAServiceListenXML.ALMAServiceListenXML.resources
+C:\Users\criveros\Desktop\AlmaChallenge\ServicioFileListener\obj\x86\Debug\ALMAServiceListenXML.exe
+C:\Users\criveros\Desktop\AlmaChallenge\ServicioFileListener\obj\x86\Debug\ALMAServiceListenXML.pdb
+C:\Users\criveros\Desktop\AlmaChallenge\ServicioFileListener\bin\Debug\DataAccess.dll
+C:\Users\criveros\Desktop\AlmaChallenge\ServicioFileListener\bin\Debug\DataAccess.pdb

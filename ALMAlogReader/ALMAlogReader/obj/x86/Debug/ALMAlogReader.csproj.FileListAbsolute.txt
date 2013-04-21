@@ -1,0 +1,10 @@
+C:\Users\criveros\Desktop\AlmaChallenge\ALMAlogReader\ALMAlogReader\bin\Debug\ALMAlogReader.exe.config
+C:\Users\criveros\Desktop\AlmaChallenge\ALMAlogReader\ALMAlogReader\bin\Debug\ALMAlogReader.exe
+C:\Users\criveros\Desktop\AlmaChallenge\ALMAlogReader\ALMAlogReader\bin\Debug\ALMAlogReader.pdb
+C:\Users\criveros\Desktop\AlmaChallenge\ALMAlogReader\ALMAlogReader\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\criveros\Desktop\AlmaChallenge\ALMAlogReader\ALMAlogReader\obj\x86\Debug\ALMAlogReader.Form1.resources
+C:\Users\criveros\Desktop\AlmaChallenge\ALMAlogReader\ALMAlogReader\obj\x86\Debug\ALMAlogReader.Properties.Resources.resources
+C:\Users\criveros\Desktop\AlmaChallenge\ALMAlogReader\ALMAlogReader\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\criveros\Desktop\AlmaChallenge\ALMAlogReader\ALMAlogReader\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\criveros\Desktop\AlmaChallenge\ALMAlogReader\ALMAlogReader\obj\x86\Debug\ALMAlogReader.exe
+C:\Users\criveros\Desktop\AlmaChallenge\ALMAlogReader\ALMAlogReader\obj\x86\Debug\ALMAlogReader.pdb

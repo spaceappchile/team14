@@ -1,0 +1,10 @@
+C:\Users\criveros\Desktop\AlmaChallenge\ServicioFileListener\bin\Debug\ServicioFileListener.exe.config
+C:\Users\criveros\Desktop\AlmaChallenge\ServicioFileListener\bin\Debug\ServicioFileListener.exe
+C:\Users\criveros\Desktop\AlmaChallenge\ServicioFileListener\bin\Debug\ServicioFileListener.pdb
+C:\Users\criveros\Desktop\AlmaChallenge\ServicioFileListener\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\criveros\Desktop\AlmaChallenge\ServicioFileListener\obj\x86\Debug\ServicioFileListener.ProjectInstaller.resources
+C:\Users\criveros\Desktop\AlmaChallenge\ServicioFileListener\obj\x86\Debug\ServicioFileListener.ServiceListenXML.resources
+C:\Users\criveros\Desktop\AlmaChallenge\ServicioFileListener\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\criveros\Desktop\AlmaChallenge\ServicioFileListener\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\criveros\Desktop\AlmaChallenge\ServicioFileListener\obj\x86\Debug\ServicioFileListener.exe
+C:\Users\criveros\Desktop\AlmaChallenge\ServicioFileListener\obj\x86\Debug\ServicioFileListener.pdb
